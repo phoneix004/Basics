@@ -4,5 +4,4 @@ Just basic codes out there
 
 this repositary contain some basic codes
 
-changing some text in vscode
-#trying to push it
+a number guessing game by python  "exercise.py"
